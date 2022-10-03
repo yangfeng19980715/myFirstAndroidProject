@@ -1,0 +1,4 @@
+# local sdk config
+local.properties
+
+.gradle/
